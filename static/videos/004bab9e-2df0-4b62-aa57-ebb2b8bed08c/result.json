@@ -1,0 +1,85 @@
+{
+  "query": "Can you search todays headlines from CNN news channel",
+  "results": [
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/photo-2025-06-15-21-13-58.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "Emergency personnel work the scene after a missile launched from Iran struck Haifa, Israel, on Sunday, June 15, 2025."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-15t074057z-343181127-rc2v2fa43ski-rtrmadp-3-iran-nuclear-israel.JPG?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "Men walk after missiles fired from Iran impacted a residential building in Tamra, northern Israel, June 15, 2025."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/112630-israeliran-sunday-timeline-horizontal-thumb.png?c=16x9&q=h_270,w_480,c_fill",
+      "alt_text": "112630_israeliran sunday timeline horizontal thumb.png"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/israel-strikes-tehran-0615-social-media.jpg?c=16x9&q=h_270,w_480,c_fill",
+      "alt_text": "Video on social media and geolocated by CNN showed smoke billowing into the sky in densely populated areas of Tehran, Iran's capital, on Sunday following Israeli strikes."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hztl-250616-thumb-2-20250616025117380.jpg?c=16x9&q=h_270,w_480,c_fill",
+      "alt_text": "hztl_250616_thumb_2.jpg"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2218838236.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "President Donald Trump arrives at the White House from Camp David on June 9."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2219484934.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "Israeli air defense systems intercept Iranian missiles over the Israeli city of Tel Aviv early on June 15."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219544262.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "Motorists queue at a petrol station in Tehran on June 15, 2025, after overnight Israeli missile strikes struck two fuel depots in Iran's capital. Israel pressed its intense bombardment campaign on Iran on June 15, striking a defence facility and fuel depots as the two arch foes kept up their most intense confrontation in history."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/504425750-1147753837390713.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "Vance Boelter captured on Sunday night."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219388177.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "BROOKLYN PARK, MINNESOTA - JUNE 14: A Brooklyn Park police officer looks on as they guard the entrance to a neighborhood on June 14, 2025 in Brooklyn Park, Minnesota. Democratic-Farmer-Labor State Rep. Melissa Hortman and her husband were shot and killed this morning. Democratic-Farmer-Labor State Sen. John Hoffman and his wife were also shot and hospitalized in a separate incident. Minnesota Gov. Tim Walz said during a press conference that the shooting \"appears to be a politically motivated assassination.\" (Photo by Stephen Maturen/Getty Images)"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/vance-boelter-fbi-handout.jpg?c=16x9&q=h_270,w_480,c_fill",
+      "alt_text": "This image provided by the FBI shows Vance Boelter."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/minnesota-manhunt-presser0.jpg?c=16x9&q=h_270,w_480,c_fill",
+      "alt_text": "minnesota_manhunt_presser0.jpg"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/tim-walz-mn-shooting-thumbnail.jpg?c=16x9&q=h_270,w_480,c_fill",
+      "alt_text": "tim walz mn shooting thumbnail.jpg"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2220313133.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "WASHINGTON, DC - JUNE 15: U.S. President Donald Trump stops and talks to the media before he boards Marine One on the South Lawn at the White House on June 15, 2025 in Washington, DC. The President will attend the annual meeting of the Group of 7 nations, Britain, Canada, France, Germany, Italy, Japan and the United States are taking place in the Canadian Rocky Mountains in Alberta, and will run until late Tuesday. (Photo by Tasos Katopodis/Getty Images)"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/moka-surface-tension-07-07-2024-1.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "alt_text": "Moka_Surface-Tension-07-\u1102\u116e\u11ab\u1106\u116e\u11af\u110b\u1174-\u1111\u116d\u1106\u1167\u11ab\u110c\u1161\u11bc\u1105\u1167\u11a8-07_2024_1.jpg"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/baylie3.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "Baylie Grogan"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2208844252.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "The annual G7 world leaders summit is set to kick off in Canada on Monday, with trade all but certain to be a hot topic ."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2219622648.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "Dust billows out of a landslide during an earthquake in Lima on June 15, 2025."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2218147855.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "People clean debris in front of a residential building damaged during a Russian air strike in Kyiv on June 6, 2025."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219547276.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "alt_text": "An iron bridge collapsed over a river in India\u2019s western Maharashtra state."
+    }
+  ]
+}

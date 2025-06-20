@@ -1,0 +1,12 @@
+{
+  "query": "Can you search for puma shoes under 2000 in amazon",
+  "scraped_url": "https://www.amazon.in",
+  "results": [
+    {
+      "image": "https://fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-4251845-9892300:892CQCYVF1E7RDTPD6PZ$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D892CQCYVF1E7RDTPD6PZ:0",
+      "alt_text": "Image",
+      "title": "Skip to",
+      "description": "Search"
+    }
+  ]
+}

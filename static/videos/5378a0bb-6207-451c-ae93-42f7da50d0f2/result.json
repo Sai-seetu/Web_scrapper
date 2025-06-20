@@ -1,0 +1,35 @@
+{
+  "query": "Can you search todays headlines from CNN news channel",
+  "results": [
+    {
+      "title": "CNN values your feedback",
+      "description": null,
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-1-20250615031828769.jpg?c=16x9&q=h_144,w_256,c_fill",
+      "link": "https://www.cnn.com"
+    },
+    {
+      "title": "Israel and Iran launch daytime attacks as conflict deepens",
+      "description": null,
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2219544262.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "link": "https://www.cnn.com"
+    },
+    {
+      "title": "MORE TOP STORIES",
+      "description": null,
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-13t070750z-957636081-rc20tcac2s1v-rtrmadp-3-iran-nuclear-sites-20250614000928208.jpg?c=16x9&q=h_270,w_480,c_fill",
+      "link": "https://www.cnn.com"
+    },
+    {
+      "title": "LATEST FROM THE US",
+      "description": null,
+      "image": null,
+      "link": "https://www.cnn.com"
+    },
+    {
+      "title": "FEATURED",
+      "description": null,
+      "image": null,
+      "link": "https://www.cnn.com"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Flask
+gunicorn
+playwright
+langgraph
+fireworks-ai
+python-dotenv
+flask_sqlalchemy
+psycopg2-binary
+APScheduler
+requests
+langchain
+langchain-fireworks
+Flask-Migration

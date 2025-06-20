@@ -1,0 +1,30 @@
+{
+  "query": "Can you search for puma shoes under 2000 in amazon",
+  "results": [
+    {
+      "headline": "Puma",
+      "price": "\u20b93,199",
+      "image": "https://m.media-amazon.com/images/I/51nhNinVOcL._AC_UL320_.jpg"
+    },
+    {
+      "headline": "Puma",
+      "price": "\u20b93,499",
+      "image": "https://m.media-amazon.com/images/I/51cw59me6yL._AC_UL320_.jpg"
+    },
+    {
+      "headline": "Puma",
+      "price": "\u20b92,579",
+      "image": "https://m.media-amazon.com/images/I/51wBFzVxrFL._AC_UL320_.jpg"
+    },
+    {
+      "headline": "Puma",
+      "price": "\u20b92,899",
+      "image": "https://m.media-amazon.com/images/I/51msHgrzVRL._AC_UL320_.jpg"
+    },
+    {
+      "headline": "Puma",
+      "price": "\u20b91,889",
+      "image": "https://m.media-amazon.com/images/I/41396Lbx3lL._AC_UL320_.jpg"
+    }
+  ]
+}

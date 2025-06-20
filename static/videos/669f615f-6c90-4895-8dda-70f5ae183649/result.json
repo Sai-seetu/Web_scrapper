@@ -1,0 +1,40 @@
+{
+  "query": "Can you search for puma shoes under 2000 in amazon",
+  "results": [
+    {
+      "description": "Must buy!"
+    },
+    {
+      "description": "Priyanka Chakrawarti"
+    },
+    {
+      "description": "Certified Buyer"
+    },
+    {
+      "description": "Mar, 2024"
+    },
+    {
+      "description": "Great product"
+    },
+    {
+      "image": "//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/flipkart-plus_8d85f4.png",
+      "alt_text": "Flipkart"
+    },
+    {
+      "image": "//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/plus_aef861.png",
+      "alt_text": null
+    },
+    {
+      "image": "//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_9e47c1.png",
+      "alt_text": null
+    },
+    {
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/l/5/o/-original-imah9mg7qyedpnpa.jpeg?q=70",
+      "alt_text": ""
+    },
+    {
+      "image": "//static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_9e47c1.png",
+      "alt_text": null
+    }
+  ]
+}

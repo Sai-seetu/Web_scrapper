@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "./venv/Lib/site-packages"
+    ],
+    "python.defaultInterpreterPath": "./venv/Scripts/python.exe"
+}

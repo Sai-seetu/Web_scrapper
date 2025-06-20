@@ -1,0 +1,50 @@
+{
+  "query": "Can you search todays headlines from CNN news channel",
+  "results": [
+    {
+      "headline": "CNN values your feedback"
+    },
+    {
+      "headline": "Israel 'not pausing for a moment' as fresh blasts rock Iranian capital"
+    },
+    {
+      "headline": "MORE TOP STORIES"
+    },
+    {
+      "headline": "LATEST FROM THE US"
+    },
+    {
+      "headline": "FEATURED"
+    },
+    {
+      "paragraph": "Israel \u2018not pausing for a moment\u2019 as fresh blasts rock Tehran"
+    },
+    {
+      "paragraph": "Show\u00a0all"
+    },
+    {
+      "paragraph": "Show\u00a0all"
+    },
+    {
+      "paragraph": "\u00a9 2025 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.\nCNN Sans \u2122 & \u00a9 2016 Cable News Network."
+    },
+    {
+      "paragraph": "For privacy options, please see our privacy policy:https://www.cnn.com/privacy."
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-1-20250615031828769.jpg?c=16x9&q=h_144,w_256,c_fill"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-1-20250615031828769.jpg?c=16x9&q=h_438,w_780,c_fill"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-13t070750z-957636081-rc20tcac2s1v-rtrmadp-3-iran-nuclear-sites-20250614000928208.jpg?c=16x9&q=h_270,w_480,c_fill"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-06-13t023113z-1823656161-rc2e1faaw8kd-rtrmadp-3-iran-nuclear-20250613082918276.JPG?c=16x9&q=h_270,w_480,c_fill"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/20250613-irannuclear-hp-02.png?c=16x9&q=h_270,w_480,c_fill"
+    }
+  ]
+}

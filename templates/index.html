@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Scraper</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>🔍 Smart Scraper</h1>
+
+    <!-- Input Section -->
+    <form method="POST" action="/scrape" class="form">
+        <label>Query</label>
+        <input name="query" placeholder="e.g., Nike shoes under 2000" required>
+        
+        <label>Optional URL</label>
+        <input name="url" placeholder="e.g., https://www.amazon.in">
+        
+        <label>Interval</label>
+        <select name="interval">
+            <option value="1h">Every 1 hour</option>
+            <option value="6h">Every 6 hours</option>
+            <option value="24h" selected>Every 24 hours</option>
+        </select>
+
+        <button type="submit">Scrape</button>
+    </form>
+
+    <!-- API Results -->
+    {% if scraped %}
+    <div class="scraped-results">
+        <h2>📰 Scraped Content</h2>
+        {% for item in scraped.results %}
+        <div class="scraped-card">
+            {% if item.image %}
+    {% if item.image.startswith('http') %}
+        <img src="{{ item.image }}" alt="{{ item.alt_text or 'Image' }}">
+    {% else %}
+        <img src="https:{{ item.image }}" alt="{{ item.alt_text or 'Image' }}">
+    {% endif %}
+    {% if item.alt_text %}
+        <p><strong>{{ item.alt_text }}</strong></p>
+    {% endif %}
+            {% endif %}
+            <h3>{{ item.title or 'No Title' }}</h3>
+            <p>{{ item.description or 'No Description Available' }}</p>
+            {% if item.link %}
+            <a href="{{ item.link }}" target="_blank">View More</a>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <!-- Scheduled API Links -->
+    <div class="api-section">
+        <h2>🔁 Scheduled API Links</h2>
+        {% for link in links %}
+        <div class="api-card">
+            <h3>🔎 {{ link.search_query }}</h3>
+            <p><strong>URL:</strong> <a href="{{ link.website_url }}" target="_blank">{{ link.website_url }}</a></p>
+            <p><strong>API Endpoint:</strong> <a href="{{ link.api_endpoint }}" target="_blank">{{ request.host_url.rstrip('/') + link.api_endpoint }}</a></p>
+            <p><strong>Interval:</strong> {{ link.interval }}</p>
+            <p class="{{ 'status-active' if link.active else 'status-inactive' }}">
+                Status: {{ 'Activated' if link.active else 'Deactivated' }}
+            </p>
+            <button class="toggle-btn {{ 'active' if link.active else '' }}" data-id="{{ link.id }}">
+                {{ 'Deactivate' if link.active else 'Activate' }}
+            </button>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script src="/static/js/scripts.js"></script>
+</body>
+</html>

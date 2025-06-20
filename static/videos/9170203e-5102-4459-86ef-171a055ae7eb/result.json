@@ -1,0 +1,35 @@
+{
+  "query": "Can you search for shoes under 2000 in amazon",
+  "results": [
+    {
+      "title": null,
+      "price": "298",
+      "image": "https://m.media-amazon.com/images/I/3127hPknUeL._AC_UL320_.jpg",
+      "product_link": null
+    },
+    {
+      "title": null,
+      "price": "499",
+      "image": "https://m.media-amazon.com/images/I/61opAdS2XjL._AC_UL320_.jpg",
+      "product_link": null
+    },
+    {
+      "title": null,
+      "price": "271",
+      "image": "https://m.media-amazon.com/images/I/31c-hC8epeL._AC_UL320_.jpg",
+      "product_link": null
+    },
+    {
+      "title": null,
+      "price": "619",
+      "image": "https://m.media-amazon.com/images/I/51zjMMLXbEL._AC_UL320_.jpg",
+      "product_link": null
+    },
+    {
+      "title": null,
+      "price": "315",
+      "image": "https://m.media-amazon.com/images/I/71F7sKKyqqL._AC_UL320_.jpg",
+      "product_link": null
+    }
+  ]
+}

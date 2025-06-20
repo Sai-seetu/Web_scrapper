@@ -1,0 +1,45 @@
+{
+  "query": "Can you search today's headlines from Sakshi news channel",
+  "results": [
+    {
+      "image": "https:/sites/default/files/sakshi-english.png",
+      "alt_text": "Home"
+    },
+    {
+      "image": "https:/sites/all/modules/lazyloader/loader/loader-1.gif",
+      "alt_text": "No alt text"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/article_images/2025/06/12/AI-171-Plane-Crash.jpg",
+      "alt_text": "Operation Sindoor"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/thumbnail/public/article_images/2025/06/20/Tanya2.jpg-1750398884.jpg?itok=ec-V9jml",
+      "alt_text": " - Sakshi Post"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/thumbnail/public/article_images/2025/06/20/202506203432362-1750398601.jpeg?itok=kpaifNq1",
+      "alt_text": " - Sakshi Post"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/thumbnail/public/article_images/2025/06/20/202506203432395-1750398301.jpg?itok=UStwATjD",
+      "alt_text": " - Sakshi Post"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/thumbnail/public/gallery_images/2025/06/20/Namrata-Shirodkar%20%281%29%20%281%29-1750398159.jpeg?itok=RDlNzwsm",
+      "alt_text": " - Sakshi Post"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/thumbnail/public/article_images/2025/06/20/119851710-1750398121.jpg?itok=f3rkWriQ",
+      "alt_text": " - Sakshi Post"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/poster/public/article_images/2025/06/20/Screenshot%202025-06-20%20103855-1750396948.jpg?itok=wMvM6_pL",
+      "alt_text": " - Sakshi Post"
+    },
+    {
+      "image": "https://www.sakshipost.com/sites/default/files/styles/poster/public/video_images/2019/08/30/pexels_photo_101808__1_.jpg?itok=mPEiQ95b",
+      "alt_text": "Main Challenges In India\u2019s Real Estate Sector"
+    }
+  ]
+}
