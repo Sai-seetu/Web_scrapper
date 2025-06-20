@@ -66,10 +66,10 @@ Install the following Python packages (from `requirements.txt`):
    ```
 
 7. Create a new service in pgAdmin ( PostgreSQL )
-  * At the workspace, go to services,  register a new service like
+  * At the workspace, go to servers,  register a new server like
   IN GENERAL
   ```bash
-  * give SERVICE name
+  Give the SERVER name
   ```
   IN CONNECTIONS
   ```bash
