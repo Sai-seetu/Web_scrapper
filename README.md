@@ -65,6 +65,31 @@ Install the following Python packages (from `requirements.txt`):
    cd Web_scrapper
    ```
 
+7. Create a new service in pgAdmin ( PostgreSQL )
+  * At the workspace, go to services,  register a new service like
+  IN GENERAL
+  ```bash
+  * give SERVICE name
+  ```
+  IN CONNECTIONS
+  ```bash
+  DB_host = localhost
+  DB_port = 5432
+  DB_name = ScraperDB
+  DB_USER = your_username
+  DB_password = your_password
+  ```
+* Open your new services near the Services option, and create a new table for the Database.
+* Make sure to update your DATABASE_URL according to your password and table name in the .env file
+  ```bash
+  example: DATABASE_URL=postgresql://postgres:your_password@localhost:5432/your_tablename
+   ```
+* Now, in the VS Code terminal, run these commands
+  ```bash
+  pip install psycopg2-binary
+  pip install python-dotenv
+  ```
+
 ## You now have a local copy of the project on your machine!
 
 ## Run Locally
@@ -75,5 +100,4 @@ pip install -r requirements.txt
 playwright install
 python run.py
 ```
-
 
